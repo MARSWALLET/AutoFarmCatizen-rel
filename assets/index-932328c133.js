@@ -1,0 +1,2 @@
+"use strict";
+loadLib("libs/laya.html-f3c4dc1827.js"), loadLib("libs/laya.ani-f2d0c4da93.js"), loadLib("libs/laya.tiledmap-f9406f775b.js"), loadLib("libs/spine-core-3.8-e9d90ff6f5.js"), loadLib("libs/laya.spine-61cf62da2c.js"), loadLib("libs/tonconnect.ui-5f2d828aa1.js"), loadLib("libs/patchmain-655f63025f.js"), loadLib("libs/protobuf/protobuf-library.min-022e3876bb.js"), loadLib("libs/protobuf-bundles.min-4ea5218357.js"), loadLib("libs/data/data-34554b99f2.js"), loadLib("cat/js/bundle-0ea68ea389.js");
